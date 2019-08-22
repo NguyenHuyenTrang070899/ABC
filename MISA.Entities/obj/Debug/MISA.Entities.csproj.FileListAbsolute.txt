@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Debug\MISA.Entities.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Debug\MISA.WDT02.NTHTrang.Migrations.Initial.resources
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Debug\MISA.Entities.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Debug\MISA.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Debug\MISA.Entities.dll.config
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Debug\MISA.Entities.dll
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Debug\MISA.Entities.pdb
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Debug\MISA.Entities.csproj.CopyComplete
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Debug\MISA.Entities.dll
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Debug\MISA.Entities.pdb

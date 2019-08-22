@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Release\MISA.Entities.dll.config
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Release\MISA.Entities.dll
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Release\MISA.Entities.pdb
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Release\EntityFramework.dll
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Release\EntityFramework.xml
+C:\Users\ASUS\source\repos\MISA.Entities\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Release\MISA.Entities.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Release\MISA.WDT02.NTHTrang.Migrations.Initial.resources
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Release\MISA.Entities.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Release\MISA.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Release\MISA.Entities.csproj.CopyComplete
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Release\MISA.Entities.dll
+C:\Users\ASUS\source\repos\MISA.Entities\obj\Release\MISA.Entities.pdb
